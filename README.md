@@ -9,7 +9,7 @@ Clone this directory, then load the `InfiniteMonkey.cbp` project file in the Cod
 Download the executable `InfiniteMonkey.exe` from the latest release (current: v0.1.0).
 
 # Usage
-Run CMD.exe, go into the executable's directory, then run `InfiniteMonkey.exe -h` to show this greeter: 
+Run `cmd.exe`, go into the executable's directory, then run `InfiniteMonkey.exe -h` to show this greeter: 
 ```
 InfiniteMonkey.exe [--help] [--version] [--input VAR] [--tries VAR] [--charset VAR] [--buffer-size VAR]
 
