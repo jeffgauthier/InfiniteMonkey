@@ -13,7 +13,7 @@ int main(int argc, char* argv[]) {
     int tries, wsize;
 
     // define default charset
-    string charset_default = "abcdefghijklmnopqrstuvwyxz";
+    string charset_default = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz !?:;,.";
 
     // argument parser -----------------------------------------------------------------------
     argparse::ArgumentParser program("infinite-monkey");
