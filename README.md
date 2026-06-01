@@ -25,10 +25,10 @@ Optional arguments:
 # Example command and output
 
 ```
-InfiniteMonkey.exe \
-  --input Hi! \
-  --tries 10 \
-  --charset "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz !?:;,." \
+InfiniteMonkey.exe ^
+  --input Hi! ^
+  --tries 10 ^
+  --charset "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz !?:;,." ^
   --buffer-size 40
 
 ------------------------------
