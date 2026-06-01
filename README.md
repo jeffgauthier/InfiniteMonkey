@@ -2,7 +2,7 @@
 C++ implementation of the Infinite Monkey Theorem. This is a toy project I made to learn C++. It has no practical usefulness, 
 aside from illustrating how long it may take to obtain a text by randomly typing characters on a keyboard.
 
-'Note' : This project uses the `argparse.hpp` argument parser, distributed under the MIT license. Copyright (c) 2018 Pranav Srinivas Kumar pranav.srinivas.kumar@gmail.com
+**Note**: This project uses the `argparse.hpp` argument parser, distributed under the MIT license. Copyright (c) 2018 Pranav Srinivas Kumar pranav.srinivas.kumar@gmail.com
 
 # Compilation
 Clone this directory, then load the `InfiniteMonkey.cbp` project file in the Code::Blocks IDE and select "Build". Will automatically compile with MinGW 64-bit G++ with linker flags `-static -static-libgcc -static-libstdc++`. 
