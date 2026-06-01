@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1780105925 source:c:\users\jeffr\dropbox\pc (3)\desktop\jeff_w32\infinitemonkey\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"argparse.hpp"
+	"monkey.hpp"
+
+1780072554 c:\users\jeffr\dropbox\pc (3)\desktop\jeff_w32\infinitemonkey\argparse.hpp
+	<cerrno>
+	<algorithm>
+	<any>
+	<array>
+	<set>
+	<charconv>
+	<cstdlib>
+	<functional>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<list>
+	<map>
+	<numeric>
+	<optional>
+	<sstream>
+	<stdexcept>
+	<string>
+	<string_view>
+	<tuple>
+	<type_traits>
+	<utility>
+	<variant>
+	<vector>
+	<filesystem>
+
+1780106796 c:\users\jeffr\dropbox\pc (3)\desktop\jeff_w32\infinitemonkey\monkey.hpp
+	<string>
+	<cstdlib>
+	<chrono>
+
