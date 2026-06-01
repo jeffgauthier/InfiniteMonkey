@@ -3,7 +3,7 @@ C++ implementation of the Infinite Monkey Theorem. This is a toy project to lear
 aside from illustrating how long it may take to obtain a text by randomly typing characters on a keyboard. 
 
 # Compilation
-Clone this directory, then load the `InfiniteMonkey.cbp` project file in the Code::Blocks IDE and select "Build". Will compile with MinGW 64-bit G++ with linker flags `-static -static-libgcc -static-libstdc++ 
+Clone this directory, then load the `InfiniteMonkey.cbp` project file in the Code::Blocks IDE and select "Build". Will automatically compile with MinGW 64-bit G++ with linker flags `-static -static-libgcc -static-libstdc++`. 
 
 # Binaries
 Download the executable `InfiniteMonkey.exe` from the latest release (current: v0.1.0).
