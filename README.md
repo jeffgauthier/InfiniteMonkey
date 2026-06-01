@@ -18,7 +18,7 @@ Optional arguments:
   -v, --version      prints version information and exits
   -i, --input        [nargs=0..1] [default: "text"]
   -t, --tries        [nargs=0..1] [default: 1]
-  -c, --charset      [nargs=0..1] [default: "abcdefghijklmnopqrstuvwyxz"]
+  -c, --charset      [nargs=0..1] [default: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz !?:;,."]
   -b, --buffer-size  [nargs=0..1] [default: 50]
 ```
 
