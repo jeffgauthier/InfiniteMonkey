@@ -1,5 +1,5 @@
 # InfiniteMonkey
-C++ implementation of the Infinite Monkey Theorem. This is a toy project to learn C++. It has no parctical usefulness, 
+C++ implementation of the Infinite Monkey Theorem. This is a toy project I made to learn C++. It has no practical usefulness, 
 aside from illustrating how long it may take to obtain a text by randomly typing characters on a keyboard. 
 
 # Compilation
