@@ -22,7 +22,7 @@ Optional arguments:
   -b, --buffer-size  [nargs=0..1] [default: 50]
 ```
 
-# Example output
+# Example command and output
 
 ```
 InfiniteMonkey.exe \
