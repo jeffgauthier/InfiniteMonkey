@@ -6,7 +6,7 @@ aside from illustrating how long it may take to obtain a word by randomly typing
 Clone this directory, then load the `InfiniteMonkey.cbp` project file in the Code::Blocks IDE and select "Build".
 
 # Binaries
-Download the latest release or download the executable in `bin/Release` from this repository.
+Download the executable `InfiniteMonkey.exe` from the latest release (current: v0.1.0).
 
 # Usage
 Run CMD.exe, go into the executable's directory, then run `InfiniteMonkey.exe -h` to show this greeter: 
