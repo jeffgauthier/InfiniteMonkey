@@ -1,6 +1,6 @@
 # InfiniteMonkey
 C++ implementation of the Infinite Monkey Theorem. This is a toy project to learn C++. It has no parctical usefulness, 
-aside from illustrating how long it may take to obtain a word by randomly typing characters on a keyboard. 
+aside from illustrating how long it may take to obtain a text by randomly typing characters on a keyboard. 
 
 # Compilation
 Clone this directory, then load the `InfiniteMonkey.cbp` project file in the Code::Blocks IDE and select "Build".
