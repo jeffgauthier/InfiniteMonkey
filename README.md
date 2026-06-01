@@ -1,5 +1,5 @@
 # InfiniteMonkey
-C++ implementation of the Infinite Monkey Theorem. This is a toy project I made to learn C++. It has no practical usefulness, 
+C++ implementation of the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). This is a toy project I made to learn C++. It has no practical usefulness, 
 aside from illustrating how long it may take to obtain a text by randomly typing characters on a keyboard.
 
 **Note**: This project uses the `argparse.hpp` argument parser, distributed under the MIT license. Copyright (c) 2018 Pranav Srinivas Kumar pranav.srinivas.kumar@gmail.com
